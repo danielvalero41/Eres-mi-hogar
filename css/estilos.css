@@ -1,0 +1,47 @@
+*{padding:0;margin:0;}
+
+body{background:black;}
+
+#main{padding-top:30px;}
+
+button{margin:auto;}
+
+.pagina{
+	padding:10px;
+	text-align:justify;
+	height:510px;
+
+}
+
+.pagina .sangria{
+	padding-left: 5px;
+}
+
+.principal{	
+	padding:35px;
+	background:#F99AC7;
+	
+}
+
+.principal .titulo{
+	margin: 30px 0;
+	font-size: 28px;
+	text-decoration: underline;
+}
+
+.principal .prologo{
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+h2{
+	font:italic bold 12px/30px Georgia, serif;
+	font-size:20px;
+	text-align:center;
+	text-decoration: underline;
+	padding:20px;
+}
+p{
+	padding:15px;
+}
+
